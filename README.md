@@ -5,7 +5,14 @@ Cryptocurrency Arbitrage Finding Mismatched Prices in Different Exchanges
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes
 
 ### Prerequisites
-Python with matplotlib.pyplot, numpy, pandas, datetime & requests libraries
+Python with libraries
+  ```
+  matplotlib
+  numpy
+  pandas
+  datetime
+  requests
+  ```
 
 
 ### Code file details
